@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — only sample ships with repo; full Kaggle CSV stays local
+# Uncomment below if you don't want to commit even the sample
+# data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
